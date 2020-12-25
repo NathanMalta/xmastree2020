@@ -1,10 +1,11 @@
-### Matt Parker XMas Tree
+## Matt Parker XMas Tree
 
-## My attempt to provide more functionality for Matt Parker's Christmas tree.  
-## Original video: https://www.youtube.com/watch?v=TvlpIojusBE&ab_channel=Stand-upMaths
+ - My attempt to provide more functionality for Matt Parker's Christmas tree.  
+ - Original video: https://www.youtube.com/watch?v=TvlpIojusBE&ab_channel=Stand-upMaths
 
-# In order to run this on a raspberry pi, the files xmaslights-nathan.py and vid.py should be placed in the same directory.  Then xmaslights-nathan.py should be run with python.
-# For best results, view the tree from the XZ plane
+- <b> In order to run this on a raspberry pi, the files xmaslights-nathan.py and vid.py should be placed in the same directory.  Then xmaslights-nathan.py should be run with python. </b>
+
+- For best results, view the tree from the XZ plane
 
 # Files to include on the pi:
 - xmaslights-nathan.py - the file that actually draws everything to the christmas tree
